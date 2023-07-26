@@ -1,0 +1,4 @@
+chmod 455 testShe1100.tar
+tar -cf testShe1100.tar
+ls -l
+
